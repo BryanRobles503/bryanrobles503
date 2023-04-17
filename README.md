@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**BryanRobles503/bryanrobles503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**********************************************
+##educacion
+-estudio en la universidad tecnologica
+-estudie en elinstituto nacional jose damian villacorta
+##contactos
+correo
+-enriquegrobles02@gmail.com
 
-Here are some ideas to get you started:
+celular
+-70122449
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##descripcion
+soy una person que le gusta aprender mucho sobre tecnologia y aprender sobre los nuevos descubrimientps de la misma.
